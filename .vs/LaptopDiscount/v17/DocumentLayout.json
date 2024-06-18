@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\patel\\Desktop\\LaptopDiscount\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFED9819-8540-4AA3-AC8E-8312BF6C1E70}|NUnitTesting\\NUnitTesting.csproj|c:\\users\\patel\\desktop\\laptopdiscount\\nunittesting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFED9819-8540-4AA3-AC8E-8312BF6C1E70}|NUnitTesting\\NUnitTesting.csproj|solutionrelative:nunittesting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A179E2-D870-401A-A58F-FC1657750456}|LaptopDiscount\\LaptopDiscount.csproj|c:\\users\\patel\\desktop\\laptopdiscount\\laptopdiscount\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A179E2-D870-401A-A58F-FC1657750456}|LaptopDiscount\\LaptopDiscount.csproj|solutionrelative:laptopdiscount\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41A179E2-D870-401A-A58F-FC1657750456}|LaptopDiscount\\LaptopDiscount.csproj|c:\\users\\patel\\desktop\\laptopdiscount\\laptopdiscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41A179E2-D870-401A-A58F-FC1657750456}|LaptopDiscount\\LaptopDiscount.csproj|solutionrelative:laptopdiscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\Desktop\\LaptopDiscount\\NUnitTesting\\Class1.cs",
+              "RelativeDocumentMoniker": "NUnitTesting\\Class1.cs",
+              "ToolTip": "C:\\Users\\patel\\Desktop\\LaptopDiscount\\NUnitTesting\\Class1.cs",
+              "RelativeToolTip": "NUnitTesting\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:24:01.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\Desktop\\LaptopDiscount\\LaptopDiscount\\Discount.cs",
+              "RelativeDocumentMoniker": "LaptopDiscount\\Discount.cs",
+              "ToolTip": "C:\\Users\\patel\\Desktop\\LaptopDiscount\\LaptopDiscount\\Discount.cs",
+              "RelativeToolTip": "LaptopDiscount\\Discount.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:22:18.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patel\\Desktop\\LaptopDiscount\\LaptopDiscount\\Program.cs",
               "RelativeDocumentMoniker": "LaptopDiscount\\Program.cs",
               "ToolTip": "C:\\Users\\patel\\Desktop\\LaptopDiscount\\LaptopDiscount\\Program.cs",
               "RelativeToolTip": "LaptopDiscount\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T22:20:38.764Z",
               "EditorCaption": ""
